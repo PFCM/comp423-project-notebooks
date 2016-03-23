@@ -1,0 +1,8 @@
+
+.ipynb_checkpoints
+.DS_Store
+.python-version
+
+# no point committing the data
+reuters21578.tar.gz
+data
